@@ -1,4 +1,5 @@
 # CS2204: Fundamentals of Internet Application Development
+
 This course introduced fundamental internet application development framework including HTML, CSS, and Javascript. According to the course description, students should be able to:
 1. be familiar with the development of WEB programming
 2. write web pages with the Extensible HyperText Markup Language (XHTML) and Cascading Style Sheet (CSS)
