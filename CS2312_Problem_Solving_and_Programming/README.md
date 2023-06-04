@@ -6,7 +6,6 @@ This assignment is a team management application takes `txt` format input. The f
 
 * company class: singleton
 * initialize employee as different roles: state pattern
-  * take leave
-  * 
+  * employees can take leave
 * set up teams, add / delete member and active head
 * undo and redo operation: command pattern
