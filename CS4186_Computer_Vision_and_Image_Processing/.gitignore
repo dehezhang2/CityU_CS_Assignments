@@ -1,0 +1,8 @@
+ug_data
+ug_data.tar.gz
+ug_data_backup
+Support-LogMeInRescue
+Support-LogMeInRescue.gz
+__pycache__
+.ipynb_checkpoints
+*.npy
