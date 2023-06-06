@@ -5,7 +5,7 @@ The courses includes:
 
 * **CS2204 _Fundamentals_of_Internet_Application_Development**: [Website](https://www.cityu.edu.hk/catalogue/ug/201617/course/CS2204.htm) | [Directory](./CS2204_Fundamentals_of_Internet_Application_Development) 
 
-* **CS2310_Computer _Programming**: [Website](https://www.cityu.edu.hk/catalogue/ug/201617/course/CS2310.htm) | [Directory](./CS2310_Computer _Programming) 
+* **CS2310_Computer _Programming**: [Website](https://www.cityu.edu.hk/catalogue/ug/201617/course/CS2310.htm) | [Directory](./CS2310_Computer_Programming) 
 * **CS2312_Problem_Solving_and_Programming**: [Website](https://www.cityu.edu.hk/catalogue/ug/201617/course/CS2312.htm) | [Directory](./CS2312_Problem_Solving_and_Programming) |[Note](./Notes/CS2312_Problem_Solving_and_Programming.pdf)
 * **CS2115_Computer_Organization**: [Website](https://www.cityu.edu.hk/catalogue/ug/201617/course/CS2115.htm) | [Directory](./CS2115_Computer_Organization) | [Note](./Notes/CS2115_Computer_Organization.pdf)
 * **CS3103_Operating_Systems**: [Website](https://www.cityu.edu.hk/catalogue/ug/201617/course/CS3103.htm) | [Directory](./CS3103_Operating_Systems) | [Note](./Notes/CS3103_Operating_Systems.pdf)
